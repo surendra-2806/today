@@ -1,0 +1,41 @@
+
+body{
+  margin: 0;
+}
+.container{
+  width:1000px;
+ height: 550px;
+ 
+ background-color: cornsilk;
+ border-radius: 10px;
+ box-shadow: 2px 2px 2px 2px rgb(79, 59, 59);
+ 
+padding-top: 80px;
+}
+
+section{
+  width: 250px;
+  height:210px;
+ 
+  display: inline-block;
+  margin: 5px;
+ margin-bottom: 40px;
+  vertical-align: top;
+  border-radius: 5px;
+box-shadow: 1px 1px 1px 3px rgb(56, 50, 50);
+  
+}
+img{
+  width:250px;
+  height: 210px;
+ 
+}
+h3{
+ margin-top: 2px;
+}  
+h1{
+  background-color: darkgray;
+  display:inline ;
+  text-shadow: 2px 2px 2px cyan ,3px 3px 3px pink;
+  margin-bottom: 20px;
+}
